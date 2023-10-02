@@ -40,11 +40,11 @@
 
 2. Adott az oldalon három range slider, aminek segítségével egy képre a következő filtereket lehet alkalmazni: hue-rotate, grayscale. (2 pont)
     - A gombra kattintva olvasd be az inputok értékét!
-    - A gombra kattintva állítsd be a kép filterét inputok értékének megfelelően! pl. `filter: blur(5px)`)! *Tipp: egyszerre több filtert egymás után írva tudsz alkalmazni, pl. `filter: hue-rotate(90deg) blur(5px)`.*
+    - A gombra kattintva állítsd be a kép filterét az inputok értékének megfelelően! pl. `filter: blur(5px)`)! *Tipp: egyszerre több filtert egymás után írva tudsz alkalmazni, pl. `filter: hue-rotate(90deg) blur(5px)`.*
 
 
 
-3. Generáljunk egy szorzótáblát, melynek cellái-ra kattintva kiválasztjuk azokat, és megkapjuk a kiválasztott számokat felsorolva, mennyi osztható 3-mal és az összegüket.
+3. Generáljunk egy szorzótáblát, melynek cellái-ra kattintva kiválasztjuk azokat, és megkapjuk a kiválasztott számokat felsorolva, mennyi osztható 3-mal és az összegüket. (5 pont)
     -	A Generálás feliratú gombra kattintva ez a gomb és a legördülő lista kerüljenek letiltásra! *Tipp: disabled HTML attribútumot kell beállítani.*
     -	Az előzővel egyidejűleg jelenjen meg az oldalon egy táblázat, amely egy szorzótáblát generál 1től a választott számig.
     -	Az egyes cellákra kattintva az adott cella kapja meg a `selected` stílusosztályt! *Tipp: A későbbi feladatok miatt célszerű lehet a kijelölt számot ezen a ponton egy tömbbe elmenteni.*
