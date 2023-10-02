@@ -53,5 +53,5 @@
     -	Az előzővel egyidejűleg a task2 azonosítójú elembe írd ki a 3-mal osztható számok darabszámát.
     -	A task3 azonosítójú elembe írd ki a kiválasztott számok összes számjegyének összegét! (Ebben segíthet, ha a listát összefüggő stringgé alakítod, amit karakterenként dolgozol fel.)
 Példa: [5, 10, 11, 16, 26, 28, 32] ⟶ 5 + 1 + 0 + 1 + 1 + 1 + 6 + 2 + 6 + 2 + 8 + 3 + 2 = 38
-![image](https://github.com/hosekhenrietta/2023_JScsoportZH/assets/92624638/2d40a29d-a8f6-4352-aa99-6872b2894424)
+![image](minta/Képernyőfotó 2023-10-02 - 18.37.15.png)
 
