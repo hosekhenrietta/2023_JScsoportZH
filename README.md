@@ -1,4 +1,5 @@
-# Webprogramozás -- JavaScript csoportzh (15-ös csoport)
+# Webprogramozás -- JavaScript csoportzh 
+(15-ös csoport)
 
 ## Tudnivalók
 
