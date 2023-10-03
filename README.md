@@ -40,8 +40,8 @@
 
 2. Adott az oldalon három range slider, aminek segítségével egy képre a következő filtereket lehet alkalmazni: hue-rotate, grayscale. (2 pont)
     - A gombra kattintva olvasd be az inputok értékét!
-    - A gombra kattintva állítsd be a kép filterét az inputok értékének megfelelően! pl. `filter: blur(5px)`)! *Tipp: egyszerre több filtert egymás után írva tudsz alkalmazni, pl. `filter: hue-rotate(90deg) blur(5px)`.*
-
+    - A gombra kattintva állítsd be a kép filterét az inputok értékének megfelelően! pl. `filter: grayscale(50%)`)! *Tipp: egyszerre több filtert egymás után írva tudsz alkalmazni, pl. `filter: hue-rotate(90deg) grayscale(50%)`.*
+![img](minta/1.png)
 
 
 3. Generáljunk egy szorzótáblát, melynek cellái-ra kattintva kiválasztjuk azokat, és megkapjuk a kiválasztott számokat felsorolva, mennyi osztható 3-mal és az összegüket. (5 pont)
@@ -53,6 +53,7 @@
     -	Az előzővel egyidejűleg a task2 azonosítójú elembe írd ki a 3-mal osztható számok darabszámát.
     -	A task3 azonosítójú elembe írd ki a kiválasztott számok összes számjegyének összegét! (Ebben segíthet, ha a listát összefüggő stringgé alakítod, amit karakterenként dolgozol fel.)
 Példa: [5, 10, 11, 16, 26, 28, 32] ⟶ 5 + 1 + 0 + 1 + 1 + 1 + 6 + 2 + 6 + 2 + 8 + 3 + 2 = 38
-![img](minta/1.png)
 
-
+![img](minta/5.png)
+![img](minta/6.png)
+![img](minta/7.png)
