@@ -18,7 +18,7 @@
 
 2. A megoldáshoz bármit használhatsz (internet, órai anyagok), de más személy és mesterséges intelligencia segítségét igénybe venni tilos!
 
-3. [Innen töltheted le a kiindulási projektet!]()
+3. [Innen töltheted le a kiindulási projektet!](feladatok.zip)
 
 4. Nem fontos a feladatokat a megadott sorrendben elvégezned!
 
