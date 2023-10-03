@@ -51,7 +51,7 @@
     -	Ha a kattintáskor a cella már selected osztályú, akkor távolítsd el róla a stílust!	*Tipp: Ha elmentetted a számot, akkor távolítsd el a tömbből is!.*
     -	A Kiválasztott számokat írd ki a task1 azonosítójú elembe vesszővel-szóközzel tagolva, emelkedő sorrendbe, ahogyan a mintán látható!
     -	Az előzővel egyidejűleg a task2 azonosítójú elembe írd ki a 3-mal osztható számok darabszámát.
-    -	A task3 azonosítójú elembe írd ki a kiválasztott számok összes számjegyének összegét! (Ebben segíthet, ha a listát összefüggő stringgé alakítod, amit karakterenként dolgozol fel.)
+    -	A task3 azonosítójú elembe írd ki a kiválasztott számok összes számjegyének összegét! *Tipp: Ebben segíthet, ha a listát összefüggő stringgé alakítod, amit karakterenként dolgozol fel.*
 Példa: [5, 10, 11, 16, 26, 28, 32] ⟶ 5 + 1 + 0 + 1 + 1 + 1 + 6 + 2 + 6 + 2 + 8 + 3 + 2 = 38
 
 ![img](minta/5.png)
