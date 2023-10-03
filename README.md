@@ -31,11 +31,11 @@
 1. Oldd meg a következő feladatokat tömbfüggényekkel és írd ki az eredményeket a konzolra! (3 pont)
 
     - task1: Válogasd ki a 3-mal osztható számokat a `numbers` tömbből!
-	- task2:  Keresd meg a `numbers` tömb legkisebb számának indexét!
-	- task3: Számold meg, hogy a `matrix`ban hány negatív szám van!
-	- task4: Döntsd el a `matrix`ról, hogy van e benne 10-nél nagyobb szám 
-	- task5: Keresd meg a `movies` tömbből azt, amelyiknek a leghosszabb a címe!
-	- task6: Keresd meg a `movies` tömb legrégebbi filmjét.
+	- task2: Írd ki a `numbers` tömbben a 0 indexét!
+	- task3: Írd ki, hogy a `matrix`ban hány negatív szám van!
+	- task4: Írd ki, hogx a `matrix`ban van e 10-nél nagyobb szám 
+	- task5: Írd ki a `movies` tömbből azt a filmet, amelyiknek a leghosszabb a címe!
+	- task6: Írd ki a `movies` tömb legrégebbi filmjét.
 
 
 2. Adott az oldalon három range slider, aminek segítségével egy képre a következő filtereket lehet alkalmazni: hue-rotate, grayscale. (2 pont)
