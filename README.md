@@ -47,7 +47,7 @@
 3. Generáljunk egy szorzótáblát, melynek cellái-ra kattintva kiválasztjuk azokat, és megkapjuk a kiválasztott számokat felsorolva, mennyi osztható 3-mal és az összegüket. (5 pont)
     -	A Generálás feliratú gombra kattintva ez a gomb és a legördülő lista kerüljenek letiltásra! *Tipp: disabled HTML attribútumot kell beállítani.*
     -	Az előzővel egyidejűleg jelenjen meg az oldalon egy táblázat, amely egy szorzótáblát generál 1től a választott számig.
-    -	Az egyes cellákra kattintva az adott cella kapja meg a `selected` stílusosztályt! *Tipp: A későbbi feladatok miatt célszerű lehet a kijelölt számot ezen a ponton egy tömbbe elmenteni.* *Tipp2: [classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)*
+    -	Az egyes cellákra kattintva az adott cella kapja meg a `selected` stílusosztályt! *Tipp: A későbbi feladatok miatt célszerű lehet a kijelölt számot ezen a ponton egy tömbbe elmenteni.* *Tipp2: [classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList){:target="_blank"}*
     -	Ha a kattintáskor a cella már selected osztályú, akkor távolítsd el róla a stílust!	*Tipp: Ha elmentetted a számot, akkor távolítsd el a tömbből is!.*
     -	A Kiválasztott számokat írd ki a task1 azonosítójú elembe vesszővel-szóközzel tagolva, emelkedő sorrendbe, ahogyan a mintán látható!
     -	Az előzővel egyidejűleg a task2 azonosítójú elembe írd ki a 3-mal osztható számok darabszámát.
