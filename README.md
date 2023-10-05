@@ -16,7 +16,7 @@
     A fegyelmi vétség legsúlyosabb következménye a hallgató elbocsátása az egyetemről.
     ```
 
-2. A megoldáshoz bármit használhatsz (internet, órai anyagok), de más személy és mesterséges intelligencia segítségét igénybe venni tilos!
+2. A megoldáshoz bármit használhatsz (internet, órai anyagok, házifeladat megoldások), de más személy és mesterséges intelligencia segítségét igénybe venni tilos!
 
 3. [Innen töltheted le a kiindulási projektet!](feladatok.zip)
 
