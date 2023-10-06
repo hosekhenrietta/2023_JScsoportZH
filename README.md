@@ -30,7 +30,7 @@
 
 1. Oldd meg a következő feladatokat tömbfüggényekkel és írd ki az eredményeket a konzolra! (3 pont)
 
-    - task1: Válogasd ki a 3-mal osztható számokat a `numbers` tömbből!
+   	- task1: Írd ki a `numbers` tömb 3-mal osztható számait!
 	- task2: Írd ki a `numbers` tömbben a 0 indexét!
 	- task3: Írd ki, hogy a `matrix`ban hány negatív szám van!
 	- task4: Írd ki, hogx a `matrix`ban van e 10-nél nagyobb szám 
@@ -38,7 +38,7 @@
 	- task6: Írd ki a `movies` tömb legrégebbi filmjét.
 
 
-2. Adott az oldalon három range slider, aminek segítségével egy képre a következő filtereket lehet alkalmazni: hue-rotate, grayscale. (2 pont)
+2. Adott az oldalon két range slider, aminek segítségével egy képre a következő filtereket lehet alkalmazni: hue-rotate, grayscale. (2 pont)
     - A gombra kattintva olvasd be az inputok értékét!
     - A gombra kattintva állítsd be a kép filterét az inputok értékének megfelelően! pl. `filter: grayscale(50%)`)! *Tipp: egyszerre több filtert egymás után írva tudsz alkalmazni, pl. `filter: hue-rotate(90deg) grayscale(50%)`.*
 ![img](minta/1.png)
