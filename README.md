@@ -31,9 +31,9 @@
 1. Oldd meg a következő feladatokat tömbfüggényekkel és írd ki az eredményeket a konzolra! (3 pont)
 
    	- task1: Írd ki a `numbers` tömb 3-mal osztható számait!
-	- task2: Írd ki a `numbers` tömbben a 0 indexét!
+	- task2: Írd ki a `numbers` tömbben a 0 indexét! (Azt az indexet ahol a "0" szám van)
 	- task3: Írd ki, hogy a `matrix`ban hány negatív szám van!
-	- task4: Írd ki, hogy a `matrix`ban van e 10-nél nagyobb szám 
+	- task4: Írd ki, hogy a `matrix`ban van-e 10-nél nagyobb szám!
 	- task5: Írd ki a `movies` tömbből azt a filmet, amelyiknek a leghosszabb a címe!
 	- task6: Írd ki a `movies` tömb legrégebbi filmjét.
 
